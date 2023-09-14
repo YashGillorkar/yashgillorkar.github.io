@@ -1,11 +1,10 @@
 
 ## Contact Information
 
-- Email: Yashgillorkar02@gmail.com
-- Phone: 7057815670
-- Location: Pune, India
-- Linkedin: [www.linkedin.com/in/gillorkar](https://www.linkedin.com/in/gillorkar)
-
+**Email:** Yashgillorkar02@gmail.com
+**Phone:** 7057815670
+**Location:** Pune, India
+**Linkedin:** [www.linkedin.com/in/gillorkar](https://www.linkedin.com/in/gillorkar)
 
 
 ## About Me
