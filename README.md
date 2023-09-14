@@ -1,6 +1,4 @@
 
-# Yash Gillorkar
-
 ## Contact Information
 
 - Email: Yashgillorkar02@gmail.com
