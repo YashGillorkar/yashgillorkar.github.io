@@ -44,10 +44,13 @@ I am a fresher with a Bachelor's degree in computer science. I have strong codin
   - Nagpur University
   - Completed in 2022
 
-
 - HSC (Higher Secondary Certificate)
   - Maharashtra State Board
-  - Completed in 2018
+  - Completed in 2019
+
+- SSC (Secondary School Certificate)
+   - Central Board Of Secondary Education
+   - Completed in 2017
 
 ## Training
 
