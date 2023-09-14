@@ -8,6 +8,8 @@
 **Location:** Pune, India
 
 **Linkedin:** [www.linkedin.com/in/gillorkar](https://www.linkedin.com/in/gillorkar)
+twitter:
+  username               : &twitter
 
 
 ## About Me
