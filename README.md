@@ -4,12 +4,13 @@
 - Email: Yashgillorkar02@gmail.com
 - Phone: 7057815670
 - Location: Pune, India
-- Linkedin: www.linkedin.com/in/gillorkar
+- Linkedin: [www.linkedin.com/in/gillorkar](https://www.linkedin.com/in/gillorkar)
+
 
 
 ## About Me
 
-I am a fresher with a BSc in computer science. I have strong coding skills in Java and am passionate about software testing. I am a dedicated professional with excellent interpersonal and communication skills. I am seeking a job opportunity where I can leverage my skills with minimal support.
+I am a fresher with a Bachelor's degree in computer science. I have strong coding skills in Java and am passionate about software testing. I am a dedicated professional with excellent interpersonal and communication skills. I am seeking a job opportunity where I can apply my skills effectively and contribute to a dynamic team.
 
 ## Key Skills
 
@@ -40,7 +41,7 @@ I am a fresher with a BSc in computer science. I have strong coding skills in Ja
 - Bachelor of Science
   - Nagpur University
   - Completed in 2022
-  - 70.92 %
+
 
 - HSC (Higher Secondary Certificate)
   - Maharashtra State Board
