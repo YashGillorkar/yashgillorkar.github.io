@@ -8,6 +8,7 @@
 **Location:** Pune, India
 
 **Linkedin:** [www.linkedin.com/in/gillorkar](https://www.linkedin.com/in/gillorkar)
+**LinkedIn:** <img src="https://example.com/linkedin-logo.png" alt="LinkedIn Logo" width="20"/> [www.linkedin.com/in/gillorkar](https://www.linkedin.com/in/gillorkar)
 
 
 ## About Me
