@@ -1,28 +1,21 @@
+# Contact Information
 
-## Contact Information
+- **Email:** [Yashgillorkar02@gmail.com](mailto:Yashgillorkar02@gmail.com)
+- **Phone:** +91 7057815670
+- **Location:** Pune, India
+- **LinkedIn:** [www.linkedin.com/in/gillorkar](https://www.linkedin.com/in/gillorkar)
 
-**Email:** Yashgillorkar02@gmail.com
+# About Me
 
-**Phone:** 7057815670
+I am a fresh graduate with a Bachelor's degree in computer science, passionate about the world of software testing. I possess strong coding skills in Java and am dedicated to delivering top-notch quality. My excellent interpersonal and communication skills make me an asset to any team. I am actively seeking job opportunities where I can apply my skills effectively and contribute to a dynamic team.
 
-**Location:** Pune, India
+# Key Skills
 
-**Linkedin:** [www.linkedin.com/in/gillorkar](https://www.linkedin.com/in/gillorkar)
+- **Testing:** Automation and Manual Testing, API Testing, Mobile Testing
+- **Tools:** Selenium, Page Object Model, Jenkins, Maven, TestNG, GIT
+- **Frameworks:** Cucumber, Web Driver, Grid
 
-
-## About Me
-
-I am a fresher with a Bachelor's degree in computer science. I have strong coding skills in Java and am passionate about software testing. I am a dedicated professional with excellent interpersonal and communication skills. I am seeking a job opportunity where I can apply my skills effectively and contribute to a dynamic team.
-
-## Key Skills
-
-- Automation and Manual Testing
-- API Testing, Mobile Testing
-- Selenium, Page Object Model
-- Jenkins, Maven, TestNG, GIT
-- Cucumber, Web Driver, Grid
-
-## Profile Summary
+# Profile Summary
 
 - Proficient in Automation and Manual Testing
 - Experience in Automation Testing using Selenium WebDriver with Page Object Model
@@ -31,28 +24,28 @@ I am a fresher with a Bachelor's degree in computer science. I have strong codin
 - Experience in Data Driven Testing, Cross Browser Testing, and Parallel Test Execution
 - Expertise in debugging and running test cases and analyzing test results
 
-## Soft Skills
+# Soft Skills
 
 - Observation
 - Decision making
 - Communication
 - Multi-tasking
 
-## Education Background
+# Education Background
 
-- Bachelor of Science
+- **Bachelor of Science**
   - Nagpur University
   - Completed in 2022
 
-- HSC (Higher Secondary Certificate)
+- **HSC (Higher Secondary Certificate)**
   - Maharashtra State Board
   - Completed in 2019
 
-- SSC (Secondary School Certificate)
-   - Central Board Of Secondary Education
-   - Completed in 2017
+- **SSC (Secondary School Certificate)**
+  - Central Board Of Secondary Education
+  - Completed in 2017
 
-## Training
+# Training
 
 - Software Testing (Web and Mobile Apps)
 - Java Selenium Automation Training and Live project
@@ -63,14 +56,14 @@ I am a fresher with a Bachelor's degree in computer science. I have strong codin
 - Reporting: Defect Reporting
 - Performance Optimization of framework
 
-## Languages
+# Languages
 
 - English
 - Hindi
 - Marathi
 - Telugu
 
-## Achievements
+# Achievements
 
 - 2nd Prize in Chess Tournament
 - 2nd Prize in Volleyball Tournament
